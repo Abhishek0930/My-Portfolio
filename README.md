@@ -1,3 +1,3 @@
 # My-Portfolio
-*kindly visit developerabhishek.netlify.app for preview
+*kindly visit https://www.developerabhishek.netlify.app for preview
 
